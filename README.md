@@ -1,9 +1,11 @@
 # VisualizationProject
-Website: https://visualizationaltair.atwebpages.com/FinalSortedGNIAll.html
+Website: https://visualizationaltair.atwebpages.com/FinalHDIperCO2.html
 
 Data for CO2 Emission -> https://databank.worldbank.org/source/world-development-indicators
 
 Data for HDI -> https://data.world/makeovermonday/2022w41
+
+Part of a Final Project, Five Design-Sheet - Realization
 
 About HDI:
 The United Nations' Human Development Index (HDI) seeks to quantify a country's level of prosperity based on both economic and non-economic factors. 
