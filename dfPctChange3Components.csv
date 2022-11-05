@@ -1,4 +1,4 @@
-ISO3,Country,Region,Year,Human Development Index,Life Expectancy at Birth,Expected Years of Schooling,Mean Years of Schooling,Gross National Income Per Capita,GNI Growth,HDI Growth,Life Expectancy Growth,MeanYrSchpctChange
+ISO3,Country,Region,Year,Human Development Index,Life Expectancy at Birth,Expected Years of Schooling,Mean Years of Schooling,Gross National Income Per Capita,GNI Growth,HDI Growth,Life Expectancy Growth,Mean Years of Schooling Growth
 AFG,Afghanistan,SA,2001,0.337,55.7981,5.831550121,1.465160991,894.0245886,-0.0923584590967285,0.0059701492537314,0.0090473762066483,0.0407407410459175
 AFG,Afghanistan,SA,2002,0.362,56.4538,6.134050131,1.522516047,1267.628852,0.417890366958527,0.0741839762611273,0.011751296191089,0.0391459070725423
 AFG,Afghanistan,SA,2003,0.376,57.3445,6.43655014,1.579871104,1401.324413,0.1054690107353284,0.0386740331491712,0.0157775030201685,0.0376712331623785
