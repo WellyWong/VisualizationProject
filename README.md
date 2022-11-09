@@ -1,5 +1,5 @@
 # Five Design-Sheet Realization
-Part of a final project in a Data Visualization Course.
+Part of a final project on a Data Visualization Course.
 
 Website: https://visualizationaltair.atwebpages.com/FinalHDIperCO2.html
 
@@ -16,7 +16,7 @@ About HDI itself:
 The Human Development Index (HDI) was created to emphasize that people and their capabilities should be the ultimate criteria for assessing the development of a country, not economic growth alone.
 It is a composite measure of a nation's Longevity (Long and healthy life), Education (Knowledge), and Income (A decent standard of living).
 
-![hdiRoadMap](https://user-images.githubusercontent.com/70742141/200241313-fd659cdb-0d64-4ebb-9de8-8e648d220cf6.png)
+![hdiRoadMap](https://user-images.githubusercontent.com/70742141/200725050-7f3555b6-b0f0-4f8e-b191-c7720a5ff7ce.png)
 
 Goals:
 
@@ -27,4 +27,5 @@ Goals:
 -Visualize the nexus between HDI and CO2 emission (environmental cost of human development)
 
 
-![visualization](https://user-images.githubusercontent.com/70742141/199972855-ebcaf8a3-10f3-4d56-973b-12b47dccfc9c.png)
+
+![visualization](https://user-images.githubusercontent.com/70742141/200725083-5fa8e871-dc0a-47ec-8551-638f723c7a8a.png)
