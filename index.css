@@ -1,0 +1,147 @@
+/*index.css*/
+body {
+	min-height: 1000px;
+}
+#title-container {
+	background-color: #588219;
+	box-sizing: border-box;
+}
+#nav-container {
+	background-color: #4B6E15;
+	color: white;
+	font-size: 12px;
+	font-weight: 400;
+	height: 40px;
+	letter-spacing:	0.3px;
+	line-height: 20px;
+	position: relative;
+	text-size-adjust:	100%;
+	text-transform:	uppercase;
+	white-space: nowrap;
+	z-index: 1;
+}
+#nav-container ul {
+	margin-left: -29px;
+}
+#nav-container li {
+	list-style-type: none;
+	float: left;
+	margin-top: 12px;
+	margin-left: 15px;
+}
+#page-title {
+	color: #FFF;
+	margin-left: 10px;
+	margin-top: 0px;
+	padding-top: 10px;
+	margin-bottom: 12px;
+}
+#page-description {
+	color: rgba(255,255,255,.7);
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+li.bottom-line {
+	border-bottom: white solid 3px;
+	height: 23px;
+	position: center;
+}
+#nav-container li a {
+	color: #fff;
+	text-decoration: none;
+}
+div.fb-group {
+	margin-left: 3em;
+	float:left;
+}
+div.fb-page {
+	margin-left: 3em;
+}
+div {
+	margin-top: -10px;
+}
+input.btnstyle {
+	background-color: #4B6E15;
+	width: 8em;
+	height: 2em;
+	color: white;
+	border-radius: 8px;
+	box-shadow: 2px 2px 2px gray;
+	outline: none;
+	cursor: pointer;
+}
+#Code2 {
+	font-size: 18px;
+}
+
+#Code2length {
+	color: #B4886B;
+	font-weight: bold;
+	float: right;
+}
+body {
+	font-family: Roboto,HelveticaNeue,Arial,sans-serif;
+}
+.hidden {
+	display: none;
+}
+.show {
+	display: block;
+}
+#showContentNavigation {
+	float: left;
+	margin-left: -2.5em;
+	margin-top: 0.5em;
+	width: 10%;
+}
+#showContentNavigation li {
+	list-style-type: none;
+}
+#showContentNavigation li button {
+	background-color: #4B6E15;
+	color: white;
+	border-radius: 8px;
+	box-shadow: 2px 2px 2px gray;
+	text-align: center;
+	width: 12em;
+	height: 40px;
+	margin-bottom: 1em;
+	cursor: pointer;
+}
+#showContentNavigation li button:hover {
+	background-color: #3A5D04;
+	box-shadow: 1px 1px 1px gray;
+	border: none;
+}
+#showContentNavigation li button:focus {
+	background-color: #85B856;
+	outline: none;
+}
+#contentContainer {
+	float: right;
+	margin-top: 0.5em;
+	width: 85%;
+}
+img.hidden {
+	display: none;
+}
+.contactInfo {
+	float: right;
+	padding: 50px;
+	margin-top: 300px;
+	color: black;
+	background: url(Contact3.png) no-repeat;
+	background-size: cover;
+}
+.contactInfo a:hover {
+	color: red;
+}
+.contactInfo a {
+	cursor: pointer;
+}
+#output {
+	font-size: 18px;
+}
+#lang {
+	font-size: 16px;
+}
