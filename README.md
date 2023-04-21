@@ -1,7 +1,7 @@
 # Five Design-Sheet Realization
 Part of a final project on a Data Visualization Course.
 
-Website: https://visualizationaltair.atwebpages.com/FinalHDIperCO2.html
+Website: wellywong.github.io/VisualizationProject/
 
 HDI data source: https://hdr.undp.org/data-center/documentation-and-downloads
 
